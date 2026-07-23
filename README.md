@@ -18,13 +18,13 @@
 <!-- Socials & Connect -->
 <h3 align="center">🌐 Connect With Me</h3>
 <p align="center">
-  <a href="https://linkedin.com/in/siddharthasingh">
+  <a href="https://www.linkedin.com/in/siddhartha-singh-281a48336/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://x.com">
+  <a href="https://x.com/sid220507">
     <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
   </a>
-  <a href="https://instagram.com">
+  <a href="https://www.instagram.com/_siddhartha_singh_01/">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
 </p>
