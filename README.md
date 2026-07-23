@@ -1,5 +1,5 @@
-[[<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rounded&height=182&color=gradient&text=SIDDHARTHA&textBg=false&desc=Full%20Stack%20Engineer%20|%20Crafting%20High%20Performance%20Web%20Apps&fontAlign=50&animation=fadeIn&reversal=false&section=header&fontSize=40&fontColor=black&descSize=15&strokeWidth=0&rotate=0"
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rounded&height=182&color=gradient&text=Full%20Stack%20Engineer%20|%20Crafting%20High%20Performance%20Web%20Apps&textBg=false&fontAlign=50&animation=fadeIn&reversal=false&section=header&fontSize=21&fontColor=black&descSize=15&strokeWidth=0&rotate=0"
   />
 
 <p align="center">
