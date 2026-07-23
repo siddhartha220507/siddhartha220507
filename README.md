@@ -29,6 +29,16 @@
   </a>
 </p>
 
+<!-- 4. Live Spotify Playing -->
+<h3 align="center">🎵 Currently Vibing To</h3>
+<p align="center">
+  <a href="https://spotify-github-readme.vercel.app/api/spotify">
+    <img src="https://spotify-github-readme.vercel.app/api/spotify?theme=dark" alt="Spotify Status" />
+  </a>
+</p>
+
 <p align="center">
   <img src="profile-3d-contrib/profile-night-view.svg" alt="3D Contribution Graph" width="100%" />
 </p>
+
+
