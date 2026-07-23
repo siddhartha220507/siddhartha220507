@@ -1,6 +1,10 @@
+<h3 align="center">⚡ Tech Stack & Tooling</h3>
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rounded&height=182&color=gradient&text=Full%20Stack%20Engineer%20|%20Crafting%20High%20Performance%20Web%20Apps&textBg=false&fontAlign=50&animation=fadeIn&reversal=false&section=header&fontSize=21&fontColor=black&descSize=15&strokeWidth=0&rotate=0"
-  />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,mongodb,tailwind,postman,git,github,docker,vscode&theme=dark&perline=7" />
+  </a>
+</p>
 
 <p align="center">
   <img src="profile-3d-contrib/profile-night-view.svg" alt="3D Contribution Graph" width="100%" />
