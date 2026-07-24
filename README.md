@@ -19,44 +19,11 @@
   </a>
 </p>
 
-<h3 align="center">🎧 On Repeat (Coding Vibes)</h3>
+<p align="center">
+  <h3 align="center">🎧 On Repeat (Coding Vibes)</h3>
 
 <p align="center">
-  <svg xmlns="http://www.w3.org/2000/svg" width="400" height="120" viewBox="0 0 400 120" fill="none">
-    <style>
-      @keyframes spin {
-        0% { transform: rotate(0deg); }
-        100% { transform: rotate(360deg); }
-      }
-      .cd-disc {
-        animation: spin 4s linear infinite;
-        transform-origin: 55px 60px;
-      }
-      @keyframes bounce {
-        0%, 100% { height: 8px; y: 80px; }
-        50% { height: 35px; y: 53px; }
-      }
-      .bar1 { animation: bounce 1.2s ease-in-out infinite; }
-      .bar2 { animation: bounce 0.8s ease-in-out infinite 0.2s; }
-      .bar3 { animation: bounce 1.5s ease-in-out infinite 0.4s; }
-      .bar4 { animation: bounce 0.9s ease-in-out infinite 0.1s; }
-      .bar5 { animation: bounce 1.1s ease-in-out infinite 0.3s; }
-    </style>
-    <g class="cd-disc">
-      <circle cx="55" cy="60" r="38" fill="#161B22" stroke="#30363D" stroke-width="2"/>
-      <circle cx="55" cy="60" r="30" fill="none" stroke="#21262D" stroke-width="1.5"/>
-      <circle cx="55" cy="60" r="22" fill="none" stroke="#30363D" stroke-width="1"/>
-      <circle cx="55" cy="60" r="14" fill="#FF0000"/>
-      <circle cx="55" cy="60" r="5" fill="#0D1117"/>
-    </g>
-    <text x="110" y="45" fill="#F0F6FC" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, Roboto, sans-serif" font-size="16" font-weight="bold">YouTube Music Beats</text>
-    <text x="110" y="68" fill="#8B949E" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, Roboto, sans-serif" font-size="13">Lo-Fi Coding &amp; Synthwave</text>
-    <rect class="bar1" x="310" y="80" width="4" height="8" rx="2" fill="#FF0000"/>
-    <rect class="bar2" x="320" y="80" width="4" height="8" rx="2" fill="#FF3333"/>
-    <rect class="bar3" x="330" y="80" width="4" height="8" rx="2" fill="#FF5555"/>
-    <rect class="bar4" x="340" y="80" width="4" height="8" rx="2" fill="#FF3333"/>
-    <rect class="bar5" x="350" y="80" width="4" height="8" rx="2" fill="#FF0000"/>
-  </svg>
+  <img src="data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='400' height='120' viewBox='0 0 400 120' fill='none'><style>@keyframes spin { 0% { transform: rotate(0deg); } 100% { transform: rotate(360deg); } } .cd-disc { animation: spin 4s linear infinite; transform-origin: 55px 60px; } @keyframes bounce { 0%, 100% { height: 8px; y: 80px; } 50% { height: 35px; y: 53px; } } .bar1 { animation: bounce 1.2s ease-in-out infinite; } .bar2 { animation: bounce 0.8s ease-in-out infinite 0.2s; } .bar3 { animation: bounce 1.5s ease-in-out infinite 0.4s; } .bar4 { animation: bounce 0.9s ease-in-out infinite 0.1s; } .bar5 { animation: bounce 1.1s ease-in-out infinite 0.3s; }</style><rect width='400' height='120' rx='16' fill='%230D1117' stroke='%2330363D' stroke-width='1.5'/><g class='cd-disc'><circle cx='55' cy='60' r='38' fill='%23161B22' stroke='%2330363D' stroke-width='2'/><circle cx='55' cy='60' r='30' fill='none' stroke='%2321262D' stroke-width='1.5'/><circle cx='55' cy='60' r='22' fill='none' stroke='%2330363D' stroke-width='1'/><circle cx='55' cy='60' r='14' fill='%23FF0000'/><circle cx='55' cy='60' r='5' fill='%230D1117'/></g><text x='110' y='45' fill='%23F0F6FC' font-family='sans-serif' font-size='16' font-weight='bold'>YouTube Music Beats</text><text x='110' y='68' fill='%238B949E' font-family='sans-serif' font-size='13'>Lo-Fi Coding %26 Synthwave</text><rect class='bar1' x='310' y='80' width='4' height='8' rx='2' fill='%23FF0000'/><rect class='bar2' x='320' y='80' width='4' height='8' rx='2' fill='%23FF3333'/><rect class='bar3' x='330' y='80' width='4' height='8' rx='2' fill='%23FF5555'/><rect class='bar4' x='340' y='80' width='4' height='8' rx='2' fill='%23FF3333'/><rect class='bar5' x='350' y='80' width='4' height='8' rx='2' fill='%23FF0000'/></svg>" alt="YouTube Music Visualizer" />
 </p>
 
 <!-- Socials & Connect -->
