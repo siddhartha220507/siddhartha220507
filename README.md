@@ -29,12 +29,9 @@
   </a>
 </p>
 
-<!-- 4. Live Spotify Playing -->
-<h3 align="center">🎵 Currently Vibing To</h3>
+<h3 align="center">💻 Coding Activity & Environment</h3>
 <p align="center">
-  <a href="https://spotify-github-readme.vercel.app/api/spotify">
-    <img src="https://spotify-github-readme.vercel.app/api/spotify?theme=dark" alt="Spotify Status" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=siddharth220507&theme=tokyonight&layout=compact" alt="WakaTime Stats" />
 </p>
 
 <p align="center">
