@@ -19,6 +19,14 @@
   </a>
 </p>
 
+<h3 align="center">🎧 Now Playing / Vibes</h3>
+
+<p align="center">
+  <a href="https://music.youtube.com">
+    <img src="https://my-readme-quotes.vercel.app/api?type=vertical&theme=dark" alt="Music Player" width="400px" />
+  </a>
+</p>
+
 <!-- Socials & Connect -->
 <h3 align="center">🌐 Connect With Me</h3>
 <p align="center">
