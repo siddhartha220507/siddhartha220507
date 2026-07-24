@@ -8,14 +8,14 @@
 <!-- Core Languages & Frontend/Backend Stack -->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,mongodb,tailwind,css,html,py,java,cpp&theme=dark&perline=10" alt="Languages & Frameworks" />
+    <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,mongodb,tailwind,css,html,py,java,cpp&theme=dark&perline=13" alt="Languages & Frameworks" />
   </a>
 </p>
 
 <!-- Cloud, DevOps & Tools -->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=aws,gcp,docker,linux,ubuntu,git,github,vscode,replit,postman&theme=dark&perline=5" alt="DevOps & Tools" />
+    <img src="https://skillicons.dev/icons?i=aws,gcp,docker,linux,ubuntu,git,github,vscode,replit,postman&theme=dark&perline=10" alt="DevOps & Tools" />
   </a>
 </p>
 
