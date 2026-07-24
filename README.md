@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/viUPE5yXd5?theme=dark&font=Actor&ext=heatmap" />
+  <img width="100%" src="https://leetcard.jacoblin.cool/viUPE5yXd5?theme=dark&font=Actor&ext=heatmap" />
 </p>
 
 <!-- Tech Stack & Tooling Section -->
