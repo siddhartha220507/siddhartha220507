@@ -29,9 +29,12 @@
   </a>
 </p>
 
-<h3 align="center">💻 Coding Activity & Environment</h3>
+<h3 align="center">🎧 What I'm Listening To On YouTube</h3>
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=siddharth220507&theme=tokyonight&layout=compact" alt="WakaTime Stats" />
+  <a href="https://youtube.com">
+    <img src="https://github-readme-youtube-cards.vercel.app/api?channel_id=YOUR_CHANNEL_ID&theme=dark" alt="YouTube Music Track" />
+  </a>
 </p>
 
 <p align="center">
