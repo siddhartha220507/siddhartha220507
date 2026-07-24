@@ -24,7 +24,6 @@
 <p align="center">
   <svg xmlns="http://www.w3.org/2000/svg" width="400" height="120" viewBox="0 0 400 120" fill="none">
     <style>
-      /* Rotating CD Disc Animation */
       @keyframes spin {
         0% { transform: rotate(0deg); }
         100% { transform: rotate(360deg); }
@@ -33,7 +32,6 @@
         animation: spin 4s linear infinite;
         transform-origin: 55px 60px;
       }
-      /* Animated Equalizer Wave Bars */
       @keyframes bounce {
         0%, 100% { height: 8px; y: 80px; }
         50% { height: 35px; y: 53px; }
@@ -44,11 +42,6 @@
       .bar4 { animation: bounce 0.9s ease-in-out infinite 0.1s; }
       .bar5 { animation: bounce 1.1s ease-in-out infinite 0.3s; }
     </style>
-
-    <!-- Dark Card Background -->
-    <rect width="400" height="120" rx="16" fill="#0D1117" stroke="#30363D" stroke-width="1.5"/>
-
-    <!-- Spinning CD Outer Ring & Vinyl Lines -->
     <g class="cd-disc">
       <circle cx="55" cy="60" r="38" fill="#161B22" stroke="#30363D" stroke-width="2"/>
       <circle cx="55" cy="60" r="30" fill="none" stroke="#21262D" stroke-width="1.5"/>
@@ -56,12 +49,8 @@
       <circle cx="55" cy="60" r="14" fill="#FF0000"/>
       <circle cx="55" cy="60" r="5" fill="#0D1117"/>
     </g>
-
-    <!-- Song Info / Text Details -->
     <text x="110" y="45" fill="#F0F6FC" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, Roboto, sans-serif" font-size="16" font-weight="bold">YouTube Music Beats</text>
     <text x="110" y="68" fill="#8B949E" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, Roboto, sans-serif" font-size="13">Lo-Fi Coding &amp; Synthwave</text>
-
-    <!-- Equalizer Visualizer Bars (Insta Story Style) -->
     <rect class="bar1" x="310" y="80" width="4" height="8" rx="2" fill="#FF0000"/>
     <rect class="bar2" x="320" y="80" width="4" height="8" rx="2" fill="#FF3333"/>
     <rect class="bar3" x="330" y="80" width="4" height="8" rx="2" fill="#FF5555"/>
