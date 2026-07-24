@@ -33,7 +33,7 @@
 
 <p align="center">
   <a href="https://youtube.com">
-    <img src="https://github-readme-youtube-cards.vercel.app/api?channel_id=YOUR_CHANNEL_ID&theme=dark" alt="YouTube Music Track" />
+    <img src="https://github-readme-youtube-cards.vercel.app/api?channel_id=@animelevatex&theme=dark" alt="YouTube Music Track" />
   </a>
 </p>
 
