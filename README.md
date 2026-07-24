@@ -8,7 +8,7 @@
 <!-- Core Languages & Frontend/Backend Stack -->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,mongodb,tailwind,css,html,py,java,cpp&theme=dark&perline=7" alt="Languages & Frameworks" />
+    <img width="100%" src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,mongodb,tailwind,css,html,py,java,cpp&theme=dark&perline=7" alt="Languages & Frameworks" />
   </a>
 </p>
 
