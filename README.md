@@ -19,12 +19,55 @@
   </a>
 </p>
 
-<h3 align="center">🎧 Now Playing / Vibes</h3>
+<h3 align="center">🎧 On Repeat (Coding Vibes)</h3>
 
 <p align="center">
-  <a href="https://music.youtube.com">
-    <img src="https://my-readme-quotes.vercel.app/api?type=vertical&theme=dark" alt="Music Player" width="400px" />
-  </a>
+  <svg xmlns="http://www.w3.org/2000/svg" width="400" height="120" viewBox="0 0 400 120" fill="none">
+    <style>
+      /* Rotating CD Disc Animation */
+      @keyframes spin {
+        0% { transform: rotate(0deg); }
+        100% { transform: rotate(360deg); }
+      }
+      .cd-disc {
+        animation: spin 4s linear infinite;
+        transform-origin: 55px 60px;
+      }
+      /* Animated Equalizer Wave Bars */
+      @keyframes bounce {
+        0%, 100% { height: 8px; y: 80px; }
+        50% { height: 35px; y: 53px; }
+      }
+      .bar1 { animation: bounce 1.2s ease-in-out infinite; }
+      .bar2 { animation: bounce 0.8s ease-in-out infinite 0.2s; }
+      .bar3 { animation: bounce 1.5s ease-in-out infinite 0.4s; }
+      .bar4 { animation: bounce 0.9s ease-in-out infinite 0.1s; }
+      .bar5 { animation: bounce 1.1s ease-in-out infinite 0.3s; }
+    </style>
+
+    <!-- Dark Card Background -->
+    <rect width="400" height="120" rx="16" fill="#0D1117" stroke="#30363D" stroke-width="1.5"/>
+
+    <!-- Spinning CD Outer Ring & Vinyl Lines -->
+    <g class="cd-disc">
+      <circle cx="55" cy="60" r="38" fill="#161B22" stroke="#30363D" stroke-width="2"/>
+      <circle cx="55" cy="60" r="30" fill="none" stroke="#21262D" stroke-width="1.5"/>
+      <circle cx="55" cy="60" r="22" fill="none" stroke="#30363D" stroke-width="1"/>
+      <circle cx="55" cy="60" r="14" fill="#FF0000"/>
+      <circle cx="55" cy="60" r="5" fill="#0D1117"/>
+    </g>
+
+    <!-- Song Info / Text Details -->
+    <text x="110" y="45" fill="#F0F6FC" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, Roboto, sans-serif" font-size="16" font-weight="bold">YouTube Music Beats</text>
+    <text x="110" y="68" fill="#8B949E" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, Roboto, sans-serif" font-size="13">Lo-Fi Coding &amp; Synthwave</text>
+
+    <!-- Equalizer Visualizer Bars (Insta Story Style) -->
+    <rect class="bar1" x="310" y="80" width="4" height="8" rx="2" fill="#FF0000"/>
+    <rect class="bar2" x="320" y="80" width="4" height="8" rx="2" fill="#FF3333"/>
+    <rect class="bar3" x="330" y="80" width="4" height="8" rx="2" fill="#FF5555"/>
+    <rect class="bar4" x="340" y="80" width="4" height="8" rx="2" fill="#FF3333"/>
+    <rect class="bar5" x="350" y="80" width="4" height="8" rx="2" fill="#FF0000"/>
+  </svg>
 </p>
 
 <!-- Socials & Connect -->
