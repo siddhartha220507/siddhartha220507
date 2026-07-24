@@ -1,4 +1,4 @@
-<p align="center">
+<p width="100%" align="center">
   <img src="https://leetcard.jacoblin.cool/viUPE5yXd5?theme=dark&font=Geo&ext=heatmap" />
 </p>
 
