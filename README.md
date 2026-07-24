@@ -1,4 +1,4 @@
-<img src="![LeetCode Stats](https://leetcard.jacoblin.cool/viUPE5yXd5?theme=dark&font=Geo&ext=heatmap)" />
+<img src="https://leetcard.jacoblin.cool/viUPE5yXd5?theme=dark&font=Geo&ext=heatmap" />
 
 <!-- Tech Stack & Tooling Section -->
 <h3 align="center">⚡ Tech Stack & Ecosystem</h3>
