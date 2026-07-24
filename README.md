@@ -40,14 +40,6 @@
   </a>
 </p>
 
-<h3 align="center">🎧 What I'm Listening To On YouTube</h3>
-
-<p align="center">
-  <a href="https://youtube.com">
-    <img src="https://github-readme-youtube-cards.vercel.app/api?channel_id=UC4hRMpOx7JKytDCjqzZbi_g&theme=dark" alt="YouTube Music Track" />
-  </a>
-</p>
-
 <p align="center">
   <img src="profile-3d-contrib/profile-night-view.svg" alt="3D Contribution Graph" width="100%" />
 </p>
