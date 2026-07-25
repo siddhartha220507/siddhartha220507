@@ -43,11 +43,15 @@
   </a>
 </p>
 
-<p align="center">
-  <img src="profile-3d-contrib/profile-night-view.svg" alt="3D Contribution Graph" width="100%" />
-</p>
+<h3 align="center">📊 Activity & Analytics</h3>
 
-<h3 align="center">📊 Analytics & Metrics</h3>
-<p align="center">
-  <img src="github-metrics.svg" alt="GitHub Metrics" width="100%" />
-</p>
+<table border="0" width="100%">
+  <tr>
+    <td width="50%" align="center" valign="top">
+      <img src="profile-3d-contrib/profile-night-view.svg" alt="3D Contribution Graph" width="100%" />
+    </td>
+    <td width="50%" align="center" valign="top">
+      <img src="github-metrics.svg" alt="GitHub Metrics" width="100%" />
+    </td>
+  </tr>
+</table>
