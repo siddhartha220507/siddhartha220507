@@ -1,8 +1,8 @@
 <h3 align="center">📊 Analytics & Metrics</h3>
 
-<p display="flex">
-  <img src="github-metrics.svg" alt="GitHub Metrics" width="50%" />
-  <img width="50%" src="https://leetcard.jacoblin.cool/viUPE5yXd5?theme=dark&font=Actor&ext=heatmap" />
+<p align="center">
+  <img src="github-metrics.svg" alt="GitHub Metrics" width="100%" />
+  <img width="100%" src="https://leetcard.jacoblin.cool/viUPE5yXd5?theme=dark&font=Actor&ext=heatmap" />
 </p>
 
 <!-- Tech Stack & Tooling Section -->
