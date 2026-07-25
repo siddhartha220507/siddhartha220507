@@ -1,3 +1,9 @@
+<h3 align="center">📊 Analytics & Metrics</h3>
+
+<p align="center">
+  <img src="github-metrics.svg" alt="GitHub Metrics" width="100%" />
+</p>
+
 <p align="center">
   <img width="100%" src="https://leetcard.jacoblin.cool/viUPE5yXd5?theme=dark&font=Actor&ext=heatmap" />
 </p>
