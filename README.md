@@ -2,9 +2,6 @@
 
 <p align="center">
   <img src="github-metrics.svg" alt="GitHub Metrics" width="50%" />
-</p>
-
-<p align="center">
   <img width="50%" src="https://leetcard.jacoblin.cool/viUPE5yXd5?theme=dark&font=Actor&ext=heatmap" />
 </p>
 
