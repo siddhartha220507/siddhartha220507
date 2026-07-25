@@ -48,7 +48,7 @@
     <td width="50%" align="center" valign="top">
        <img src="https://leetcard.jacoblin.cool/viUPE5yXd5?theme=dark&font=Actor&ext=heatmap" />
     </td>
-    <td width="50%" align="center" valign="top">
+    <td width="100%" align="center" valign="top">
       <img src="github-metrics.svg" alt="GitHub Metrics" width="100%" />
     </td>
   </tr>
