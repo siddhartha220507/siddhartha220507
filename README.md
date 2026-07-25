@@ -1,9 +1,4 @@
 
-
-<p align="center">
-  <img width="100%" src="https://leetcard.jacoblin.cool/viUPE5yXd5?theme=dark&font=Actor&ext=heatmap" />
-</p>
-
 <!-- Tech Stack & Tooling Section -->
 <h3 align="center">⚡ Tech Stack & Ecosystem</h3>
 
@@ -49,6 +44,9 @@
   <tr>
     <td width="50%" align="center" valign="top">
       <img src="profile-3d-contrib/profile-night-view.svg" alt="3D Contribution Graph" width="100%" />
+    </td>
+    <td width="50%" align="center" valign="top">
+       <img src="https://leetcard.jacoblin.cool/viUPE5yXd5?theme=dark&font=Actor&ext=heatmap" />
     </td>
     <td width="50%" align="center" valign="top">
       <img src="github-metrics.svg" alt="GitHub Metrics" width="100%" />
