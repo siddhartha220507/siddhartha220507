@@ -38,17 +38,25 @@
   </a>
 </p>
 
-<h3 align="center">📊 Activity & Analytics</h3>
+
+
+<h3 align="center">📊 Activity & Stats</h3>
 
 <table border="0" width="100%">
+  <!-- Row 1: 3D Graph & LeetCode Side-by-Side -->
   <tr>
     <td width="50%" align="center" valign="top">
       <img src="profile-3d-contrib/profile-night-view.svg" alt="3D Contribution Graph" width="100%" />
     </td>
     <td width="50%" align="center" valign="top">
-       <img src="https://leetcard.jacoblin.cool/viUPE5yXd5?theme=dark&font=Actor&ext=heatmap" />
+      <img src="https://leetcard.jacoblin.cool/viUPE5yXd5?theme=dark&font=Actor&ext=heatmap" alt="LeetCode Stats" width="100%" />
     </td>
-    <td width="100%" align="center" valign="top">
+  </tr>
+  
+  <!-- Row 2: GitHub Metrics Full Width Below -->
+  <tr>
+    <td colspan="2" width="100%" align="center" valign="top">
+      <br />
       <img src="github-metrics.svg" alt="GitHub Metrics" width="100%" />
     </td>
   </tr>
