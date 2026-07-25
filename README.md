@@ -52,12 +52,4 @@
       <img src="https://leetcard.jacoblin.cool/viUPE5yXd5?theme=dark&font=Actor&ext=heatmap" alt="LeetCode Stats" width="100%" />
     </td>
   </tr>
-  
-  <!-- Row 2: GitHub Metrics Full Width Below -->
-  <tr>
-    <td colspan="2" width="100%" align="center" valign="top">
-      <br />
-      <img src="github-metrics.svg" alt="GitHub Metrics" width="100%" />
-    </td>
-  </tr>
 </table>
