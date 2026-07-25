@@ -1,6 +1,6 @@
 <h3 align="center">📊 Analytics & Metrics</h3>
 
-<p align="center">
+<p>
   <img src="github-metrics.svg" alt="GitHub Metrics" width="50%" />
   <img width="50%" src="https://leetcard.jacoblin.cool/viUPE5yXd5?theme=dark&font=Actor&ext=heatmap" />
 </p>
