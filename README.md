@@ -1,4 +1,6 @@
-
+<p align="center">
+  <img src="banner.jpg" alt="Profile Banner" width="100%" />
+</p>
 <!-- Tech Stack & Tooling Section -->
 <h3 align="center">⚡ Tech Stack & Ecosystem</h3>
 
